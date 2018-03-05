@@ -5,5 +5,4 @@ Press s to start.
 Press d for debug mode.
 
 https://youtu.be/WcyXpS2gC0A
-
 Demo movie
